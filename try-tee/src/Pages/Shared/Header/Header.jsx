@@ -81,9 +81,7 @@ const Header = () => {
             </ul>
           </div>
           <Link to={"/"}>
-            <p className="text-4xl font-semibold spaceg text-blue-700">
-              tryTee
-            </p>
+            <p className="text-4xl font-black spaceg text-blue-700">tryTee</p>
           </Link>
         </div>
         <div className="navbar-center hidden lg:flex">
