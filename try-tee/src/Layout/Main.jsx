@@ -1,7 +1,7 @@
 import React from "react";
 import { Outlet, useLocation } from "react-router-dom";
 import Header from "../Pages/Shared/Header/Header";
-import Footer from "../Pages/Shared/Footer/Footer";
+import Footer from "../Pages/Home/Footer/Footer";
 const Main = () => {
   const location = useLocation();
   const noHeaderFooter =
